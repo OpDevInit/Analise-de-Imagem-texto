@@ -2,13 +2,13 @@
 
 Este projeto explora como os modernos sistemas de Reconhecimento Óptico de Caracteres (OCR) manipulam imagens contendo texto complexo, estilizado ou parcialmente oculto. Abaixo estão breves análises de três exemplos do mundo real processados usando IA.
 
-## 🎧 Rap é Compromisso - Sabotagem
+## Rap é Compromisso - Sabotagem
 
 
 - **Desafio:** Texto curvo e de baixo contraste em óculos de sol e boné.
 - **Como o OCR Lida com Ele:** Redes Neurais Convolucionais (CNNs) ajudam a detectar caracteres distorcidos. Os mecanismos de atenção focam em regiões de texto relevantes, mesmo quando parcialmente ocultas ou deformadas.
 
-##A Grande Família - Pôster
+## A Grande Família - Pôster
 
 
 - **Desafio:** Caracteres e elementos de fundo se sobrepõem ao texto do título.
